@@ -1,0 +1,5 @@
+This is a WIP
+ - custom GUIs (/ce, 
+ - custom textures for each crate
+ - custom textures for each type of GKIT set
+ - custom pickaxes for each crate
