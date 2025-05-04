@@ -1,5 +1,11 @@
-This is a WIP
- - custom GUIs (/ce, 
- - custom textures for each crate
- - custom textures for each type of GKIT set
- - custom pickaxes for each crate
+Done:
+ - Custom Pickaxe Models (4 highest crates)
+ - Custom Textures for Crates (Regular Crates)
+ - Money Boosters (5 textures for each time)
+ - Fishing Boosters (Bait & Attractant)
+ - Custom GUI (20%) (Some arrows and /ec menu buttons)
+
+Coming Soon (Maybe ^tm)
+ - Custom GUI (80%) 
+ - Custom textures for each crate (Seasonal [MAYBE])
+ - Custom textures & Models for each type of GKIT set
